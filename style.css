@@ -118,7 +118,7 @@ body {
     margin-bottom: 30px;
 }
 
-/* password recovery */
+/* Recuperacion de contraseña */
 
 .imagen-logo {
     position: relative;
@@ -153,7 +153,7 @@ body {
 }
 
 
-/* my account*/
+/* cuenta*/
 
 header {
     width: 100%;
@@ -204,7 +204,7 @@ nav .nav-logo-container {
 }
 
 
-/* product */
+/* productoos */
 
 .container-productos{
     margin-top: 30px;
@@ -224,7 +224,6 @@ nav .nav-logo-container {
 }
 
 
-/* */
 
 .container-tipos {
     text-align: center;
